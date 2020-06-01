@@ -37,4 +37,3 @@ ref.on('value', (snapshot) => {
     console.log(childKey,childData)
   });
 });
-`
